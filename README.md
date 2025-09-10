@@ -45,7 +45,7 @@ I have worked on **freelance projects** as well as **company projects**, deliver
 
 - Email: itzsjpvt@gmail.com  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/itzsjpvt)  
-- Twitter: [Optional]
+
 
 ---
 
@@ -56,4 +56,4 @@ I have worked on **freelance projects** as well as **company projects**, deliver
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzsjpvt&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzSjDude&show_icons=true&theme=radical)
