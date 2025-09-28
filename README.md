@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sachin Jangir
 
-I'm a **Multi-stack Developer** with 3+ years of experience in **Python, Full-Stack Development, Linux, and Cloud technologies**.  
+I'm a **Multi-stack Developer** with 2+ years of experience in **Python, Full-Stack Development, Linux, and Cloud technologies**.  
 I have worked on **freelance projects** as well as **company projects**, delivering real-world solutions, automation tools, and cloud-based deployments.
 
 ---
@@ -37,14 +37,14 @@ I have worked on **freelance projects** as well as **company projects**, deliver
 - **Automation Scripts** – Data processing and task automation  
 - **Cloud Deployments** – Projects deployed on AWS, GCP, and Oracle Cloud  
 
-> More projects can be found in my [Repositories](https://github.com/itzsjpvt?tab=repositories)
+> More projects can be found in my [Repositories](https://github.com/itzsjdude?tab=repositories)
 
 ---
 
 ## 📫 Contact Me
 
 - Email: itzsjpvt@gmail.com  
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/itzsjpvt)  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/itzsjdude)  
 
 
 ---
